@@ -44,7 +44,7 @@ Thus, the compound interest rate over 3 years at 20% is **72.8%**.
 <table>
   <thead>
     <tr>
-      <th>Interest Rate</th>
+      <th>Interest Rate </th>
       <th>1 Year</th>
       <th>2 Years</th>
       <th>CI %</th>
