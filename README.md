@@ -34,7 +34,10 @@ Thus, the compound interest rate over 3 years at 20% is **72.8%**.
 
 | Interest Rate | 1 Year | 2 Years               | 3 Years               |
 |---------------|--------|-----------------------|-----------------------|
-
+| 10%           | 1.10   | \( 1.1 \times 1.1 = 1.21 \) | \( 1.21 \times 1.1 = 1.331 \) |
+| 15%           | 1.15   | \( 1.15 \times 1.15 = 1.3225 \) | \( 1.3225 \times 1.15 = 1.5209 \) |
+| 20%           | 1.20   | \( 1.2 \times 1.2 = 1.44 \) | \( 1.44 \times 1.2 = 1.728 \) |
+| 25%           | 1.25   | \( 1.25 \times 1.25 = 1.5625 \) | \( 1.5625 \times 1.25 = 1.9531 \) |
 
 To use this table:
 - Find the compounded ratio for the desired years.
